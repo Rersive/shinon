@@ -1,2 +1,0 @@
-# shinon
-Awesome-VM personalization
